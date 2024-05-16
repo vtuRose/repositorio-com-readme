@@ -24,6 +24,6 @@ git clone <url>
 cd repositorio-com-readme
 ```
 
-<!-- Isso é um aprendizado de formatos de README
+Isso é um aprendizado de formatos de README
 Também pode ser posto URLs usando os parenteses ex;
-(https://www.google.com) -->
+(https://www.google.com)
