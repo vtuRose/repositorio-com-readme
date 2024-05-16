@@ -2,7 +2,7 @@
 
 Um projeto de teste com um arquivo README ✅
 
-[<img src="./AnimaGato.gif" alt="gif de gatos sincronizados" title="sprigatitos">]
+[<img src="./AnimaGato.gif" alt="gif de gatos sincronizados" title="dois gatos brincando">]
 
 ## Tecnologias utilizadas
 
